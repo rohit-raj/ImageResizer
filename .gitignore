@@ -1,4 +1,10 @@
 /target/
+/.classpath
+/.settings
 *.class
-*.settings
+logs
+/RUNNING_PID
+*.swp
+*.pyc
+cache/
 
