@@ -1,4 +1,4 @@
-package com.rohit.imageresizer;
+package com.github.rohitraj.imageresizer;
 
 import java.awt.Graphics2D;
 import java.awt.GraphicsConfiguration;
