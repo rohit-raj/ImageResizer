@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.rohit.imageresizer</groupId>
+  <groupId>com.github.rohit-raj.imageresizer</groupId>
   <artifactId>ImageResizer</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
-
+  
   <name>ImageResizer</name>
   <url>http://maven.apache.org</url>
 
