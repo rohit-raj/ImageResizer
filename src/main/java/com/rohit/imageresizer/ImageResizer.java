@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Rohit on 28/4/16.
+ * @Author: Rohit on 28/4/16.
  * This class can be used for resizing image for best quality results
  */
 public class ImageResizer {
